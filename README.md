@@ -4,7 +4,7 @@
 
 This project explores an online sales dataset to understand sales performance, transaction patterns, and differences across product categories and sales channels. Completed as part of a Python capstone course, the project applies data cleaning, exploratory data analysis, visualization, and statistical testing to a real-world business dataset.
 
-The analysis was carried out using **Python in Google Colab**.
+The analysis was carried out using Python in Google Colab.
 
 ### Objectives
 
@@ -17,9 +17,9 @@ The analysis was carried out using **Python in Google Colab**.
 
 **Source:** [Online Sales Dataset – Kaggle (Yusuf Delikkaya)](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset)
 
-The original dataset contains **49,782 transactions and 17 variables**, covering product information, transaction values, payment methods, sales channels, and shipping details.
+The original dataset contains 49,782 transactions and 17 variables, covering product information, transaction values, payment methods, sales channels, and shipping details.
 
-Following data cleaning, **47,293 observations** were retained for analysis.
+Following data cleaning, 47,293 observations were retained for analysis.
 
 ### Methods and Analysis
 
@@ -33,8 +33,8 @@ The project involved:
 
 ### Key Findings
 
-- Total sales amounted to approximately **44.63 million**, with average sales of **943.77 per transaction**.
-- Furniture generated the highest total sales among the product categories, at approximately **9.03 million**.
+- Total sales amounted to approximately 44.63 million, with average sales of 943.77 per transaction.
+- Furniture generated the highest total sales among the product categories, at approximately 9.03 million.
 - Statistical tests were used to examine differences in average sales across channels and categories, as well as the association between sales channel and return status.
 
 Detailed analysis, visualizations, and statistical results are provided in the notebook.
@@ -50,10 +50,9 @@ Detailed analysis, visualizations, and statistical results are provided in the n
 ### How to Run the Project
 
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset).
-2. Open the `.ipynb` notebook from this repository in [Google Colab](https://colab.research.google.com/).
-3. Upload the CSV dataset to your Colab session using the **Files → Upload** option.
-4. Ensure the CSV filename matches the one specified in the notebook (`Online Sales Data-Capstone.csv`), then select **Runtime → Run all**.
-
+2. Open the `.ipynb` notebook from this repository in Google Colab.
+3. Upload the CSV dataset to your Colab session
+4. Ensure the CSV filename matches the one specified in the notebook 
 ### Project Outcome
 
 This project strengthened my practical skills in Python programming, data management, statistical analysis, and interpreting quantitative findings from transaction-level data.
