@@ -49,10 +49,12 @@ Detailed analysis, visualizations, and statistical results are provided in the n
 
 ### How to Run the Project
 
-1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset).
-2. Open the `.ipynb` notebook from this repository in Google Colab.
-3. Upload the CSV dataset to your Colab session
-4. Ensure the CSV filename matches the one specified in the notebook 
+1. Download the [Online Sales Dataset from Kaggle](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset).
+2. Open the `.ipynb` notebook from this repository in [Google Colab](https://colab.research.google.com/).
+3. Upload the CSV dataset using the Files → Upload option in Colab.
+4. Ensure the uploaded file is named `Online Sales Data-Capstone.csv` to match the filename used in the notebook.
+5. Select Runtime → Run all to execute the analysis.
+   
 ### Project Outcome
 
 This project strengthened my practical skills in Python programming, data management, statistical analysis, and interpreting quantitative findings from transaction-level data.
